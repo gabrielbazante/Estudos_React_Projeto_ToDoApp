@@ -22,6 +22,7 @@ Estudos sobre react - Modulo: Projeto TodoApp (Integração com Banco de dados (
   
 #### Curso: Curso React + Redux: Fundamentos e 2 Apps do absoluto zero! (Udemy) (Coders)
 
-<img src="https://github.com/gabrielbazante/Estudos_React_Projeto_ToDoApp/blob/main/images/Tela_Principal.png" width="100%">
-<img src="https://github.com/gabrielbazante/Estudos_React_Projeto_ToDoApp/blob/main/images/Tela_Sobre.png" width="100%">
-<img src="https://github.com/gabrielbazante/Estudos_React_Projeto_ToDoApp/blob/main/images/Tela_Principal_Utilizada.png" width="100%">
+
+<img src="https://github.com/gabrielbazante/Estudos_React_Projeto_ToDoApp/blob/main/imagens/Tela_Principal.png" width="100%">
+<img src="https://github.com/gabrielbazante/Estudos_React_Projeto_ToDoApp/blob/main/imagens/Tela_Sobre.png" width="100%">
+<img src="https://github.com/gabrielbazante/Estudos_React_Projeto_ToDoApp/blob/main/imagens/Tela_Principal_Utilizada.png" width="100%">
